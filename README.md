@@ -25,11 +25,6 @@ Un dueño registra sus mascotas. Cada mascota puede tener varias citas con un ve
 
 creame un caso de estudio para una veterinaria
 
-
-Estructuró narrativamente un caso de estudio veterinario
-Estructuró narrativamente un caso de estudio veterinario
-Aquí tienes un caso de estudio completo para una veterinaria, pensado para que puedas modelarlo en una base de datos:
-
 Caso de estudio: "Veterinaria Huellitas"
 Contexto: Huellitas es una clínica veterinaria que atiende mascotas de la ciudad. Necesitan un sistema para llevar el control de sus pacientes (las mascotas), los dueños, las citas médicas, los tratamientos que se aplican y el inventario de medicamentos que usan.
 
@@ -54,5 +49,4 @@ Vacunas (si quieres separarlas del resto de tratamientos)
 Relaciones a pensar:
 Un dueño con muchas mascotas, una mascota con muchas citas, una cita con un solo veterinario pero un veterinario con muchas citas, y una consulta que puede usar varios medicamentos del inventario.
 
-¿Quieres que pasemos a diseñar juntos las tablas o colecciones (si lo vas a hacer en Firebase), con sus campos y cómo se conectan entre sí?
 
